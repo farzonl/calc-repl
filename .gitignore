@@ -1,3 +1,4 @@
 calc
-*.c
-*.h
+calc*.c
+calc*.h
+lex.yy.c
